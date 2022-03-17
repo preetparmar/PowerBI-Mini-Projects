@@ -8,4 +8,5 @@
 ---
 
 For all of my projects you can visit my website [here](https://preetparmar.com/projects).
-Also you can visit a blog article on this project [here](https://blog.preetparmar.com/power-bi-handling-customer-with-same-name/).
+
+You can also visit the blog article on this project [here](https://blog.preetparmar.com/power-bi-handling-customer-with-same-name/).
