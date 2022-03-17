@@ -20,4 +20,5 @@ The general idea is to create a visual which will show the desired text explaini
 
 ---
 
-This article is also shown under my Projects Section in my website [here](https://preetparmar.com/projects).
+For all of my projects you can visit my website [here](https://preetparmar.com/projects).
+Also you can visit a blog article on this project [here](https://blog.preetparmar.com/display-visuals-based-on-selection/).
